@@ -34,7 +34,7 @@ Observations:
 1) SYN Scan Traffic: 
 Using the filter: tcp.flags.syn == 1 && tcp.flags.ack == 0
 
-
+<img width="1913" height="1068" alt="Image" src="https://github.com/user-attachments/assets/5dd1240c-7813-414c-9d85-f3046ca7f004" />
 
 
 
