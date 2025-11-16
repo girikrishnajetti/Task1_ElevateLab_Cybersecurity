@@ -4,7 +4,6 @@ Elevate Labs Cybersecurity Internship – Nmap & Wireshark Tasks: This repositor
 The tasks helped me build strong practical skills in reconnaissance, vulnerability identification, packet inspection, and network behaviour analysis.
 
 Tools used: Nmap, Wireshark.
-<img width="524" height="227" alt="Screenshot 2025-11-13 191358" src="https://github.com/user-attachments/assets/1fd07884-97f8-4fba-8bcd-13dcfc303264" />
 
 
 Repository Structure: I attached screenshots, Task1_ElevateLabs_Cybersecurity.pdf, and nmap_scan_capture_task1.pcap.
