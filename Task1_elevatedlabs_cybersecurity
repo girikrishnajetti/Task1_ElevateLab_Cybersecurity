@@ -60,6 +60,7 @@ Using the filter: tcp.flags.syn == 1 && tcp.flags.ack == 0
 2) Using the filter: tcp
 
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/c2871656-04ab-44d0-899d-abaf673bdb35" /> 
 
 
 
@@ -75,11 +76,11 @@ Using the filter: tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 
 
-3) The filter: dns 
+3) The filter: http
 
 
 
-
+<img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e1843f6a-795a-4b89-95eb-48992c0a1f38" />
 
 
 
